@@ -1,5 +1,3 @@
-# Biblioteca Fácil
-
 ## Status do projeto
 
 Em desenvolvimento.
@@ -43,3 +41,7 @@ O sistema utiliza o banco de dados MySQL para armazenamento das informações.
 Banco de dados utilizado:
 
 `biblioteca_facil`
+
+## Versão
+
+Versão 1.0 - Projeto desenvolvido para o Projeto Integrador.
