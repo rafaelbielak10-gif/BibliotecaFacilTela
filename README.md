@@ -1,18 +1,20 @@
+# Biblioteca Fácil
+
 ## Status do projeto
 
 Em desenvolvimento.
 
 ## Tecnologias
 
-- Java
-- NetBeans
-- MySQL
-- MySQL Workbench
-- Git e GitHub
+* Java
+* NetBeans
+* MySQL
+* MySQL Workbench
+* Git e GitHub
 
 ## Time de desenvolvedores
 
-- Rafael Bielak
+* Rafael Bielak
 
 ## Objetivo do software
 
@@ -22,17 +24,17 @@ O sistema tem como objetivo facilitar o cadastro e a consulta de informações, 
 
 ## Funcionalidades do sistema
 
-- Cadastro de usuários;
-- Cadastro de alunos;
-- Cadastro de livros;
-- Consulta de alunos;
-- Consulta de livros;
-- Registro de empréstimos;
-- Registro de devoluções;
-- Controle de empréstimos em aberto;
-- Consulta de informações;
-- Relatórios do sistema;
-- Acesso ao sistema por meio de login.
+* Cadastro de usuários;
+* Cadastro de alunos;
+* Cadastro de livros;
+* Consulta de alunos;
+* Consulta de livros;
+* Registro de empréstimos;
+* Registro de devoluções;
+* Controle de empréstimos em aberto;
+* Consulta de informações;
+* Relatórios do sistema;
+* Acesso ao sistema por meio de login.
 
 ## Banco de dados
 
@@ -45,3 +47,4 @@ Banco de dados utilizado:
 ## Versão
 
 Versão 1.0 - Projeto desenvolvido para o Projeto Integrador.
+
